@@ -31,5 +31,8 @@ singularity build ubuntu2204_mpich421_namd2.sif docker-archive://ubuntu2204_mpic
 
 If you use this container recipes and/or related material please kindly cite:
 
-Iaquinta, J. (2024). j34ni/NAMD2_MPIch_UCX_container
+Jean Iaquinta. (2024). j34ni/NAMD2_MPIch_UCX_container: Version 1.1.0 (v1.1.0). Zenodo. 
 
+https://doi.org/10.5281/zenodo.14162224
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14162224.svg)](https://doi.org/10.5281/zenodo.14162224)
