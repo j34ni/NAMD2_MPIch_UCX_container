@@ -9,7 +9,12 @@ FROM quay.io/jeani/base_ubuntu_mpich_ucx
 #
 # MPI version
 #    ./config Linux-x86_64-g++ --charm-arch mpi-linux-x86_64
-
+#
+# If you use this container recipes and/or related material please kindly cite:
+#
+# Jean Iaquinta. (2024). j34ni/NAMD2_MPIch_UCX_container: Version 1.1.0 (v1.1.0). Zenodo.
+# https://doi.org/10.5281/zenodo.14162224
+#
 # Copying from user local download of NAMD source (requires accepting EULA)
 COPY ./NAMD*_Source.tar.gz /opt/uio/
 
